@@ -2,7 +2,7 @@
 
 	echo "Olá mundooooo!";
 
-	echo "seus corno";
+	echo "seus cornélios";
 
 	echo "comi o cu de quem ta lendo";
 
